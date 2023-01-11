@@ -1,0 +1,15 @@
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\bin\Debug\net6.0\example_003.exe
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\bin\Debug\net6.0\example_003.deps.json
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\bin\Debug\net6.0\example_003.runtimeconfig.json
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\bin\Debug\net6.0\example_003.dll
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\bin\Debug\net6.0\example_003.pdb
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\obj\Debug\net6.0\example_003.csproj.AssemblyReference.cache
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\obj\Debug\net6.0\example_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\obj\Debug\net6.0\example_003.AssemblyInfoInputs.cache
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\obj\Debug\net6.0\example_003.AssemblyInfo.cs
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\obj\Debug\net6.0\example_003.csproj.CoreCompileInputs.cache
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\obj\Debug\net6.0\example_003.dll
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\obj\Debug\net6.0\refint\example_003.dll
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\obj\Debug\net6.0\example_003.pdb
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\obj\Debug\net6.0\example_003.genruntimeconfig.cache
+C:\C_Sharp_classes\Class_1\lecture_1\example_003\obj\Debug\net6.0\ref\example_003.dll
